@@ -1,5 +1,5 @@
 ## Hi. I'm Andrian
-A frontend developer from Ukarine.
+A frontend developer from Ukraine.
 
-- [My Email](andrian.smet@gmail.com)
+- [My Email](mailto:andrian.smet@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/andrian-smetaniuk-303239277)
